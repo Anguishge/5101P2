@@ -1,0 +1,9 @@
+absl-py==1.0.0
+asgiref==3.5.2
+certifi @ file:///C:/b/abs_4f5wo627a3/croots/recipe/certifi_1663615677642/work/certifi
+Django==4.1.2
+ortools==9.2.9972
+protobuf==3.19.1
+sqlparse==0.4.3
+tzdata==2022.4
+wincertstore==0.2
